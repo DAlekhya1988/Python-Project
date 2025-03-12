@@ -1,4 +1,4 @@
-																																																						EinschulungsApp 
+																																																EinschulungsApp 
 
 
 Die EnchulungsApp ist eine Python-basierte Anwendung zur Visualisierung und Analyse globaler Einschulungsraten in Grundschulen. 
